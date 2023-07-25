@@ -17,6 +17,10 @@ struct ContentView: View {
             Text("Javlonbek")
                 .foregroundColor(.red)
             Image(systemName: "trash")
+            Text("Khamdamov")
+                .foregroundColor(.green)
+            Text("Umarxoja")
+                .foregroundColor(.brown)
         }
     }
 }
