@@ -13,7 +13,10 @@ struct ContentView: View {
             Text("Global World")
                 .foregroundColor(Color.blue)
             Image(systemName: "globe.europe.africa")
-                
+            
+            Text("Javlonbek")
+                .foregroundColor(.red)
+            Image(systemName: "trash")
         }
     }
 }
